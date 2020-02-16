@@ -1,10 +1,10 @@
 # nagaoka
 
-
+## Installation
+bin/setup.sh
 
 ## Usage
-
-## Installation
+./runserver.sh
 
 ## Author
 
