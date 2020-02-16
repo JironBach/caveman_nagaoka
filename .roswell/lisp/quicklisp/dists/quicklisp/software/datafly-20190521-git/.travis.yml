@@ -1,0 +1,24 @@
+language: common-lisp
+
+sudo: false
+
+env:
+  global:
+    - PATH=~/.roswell/bin:$PATH
+    - ROSWELL_INSTALL_DIR=$HOME/.roswell
+  matrix:
+    - LISP=sbcl-bin
+    - LISP=ccl-bin
+
+install:
+  # Install Roswell
+  - curl -L https://raw.githubusercontent.com/snmsts/roswell/release/scripts/install-for-ci.sh | sh
+  - ros install prove
+
+before_script:
+  - ros --version
+  - ros config
+
+script:
+  - ros -S . -s datafly-test
+  - run-prove datafly-test.asd

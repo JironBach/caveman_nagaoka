@@ -1,0 +1,26 @@
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//uiop.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//asdf.fasl "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-aclrepl.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-aclrepl.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-bsd-sockets.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-bsd-sockets.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-capstone.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-capstone.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-cltl2.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-cltl2.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-concurrency.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-concurrency.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-cover.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-cover.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-executable.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-executable.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-gmp.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-gmp.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-grovel.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-grovel.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-introspect.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-introspect.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-md5.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-md5.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-mpfr.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-mpfr.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-posix.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-posix.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-queue.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-queue.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-rotate-byte.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-rotate-byte.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-rt.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-rt.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-simple-streams.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-simple-streams.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+cp /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-sprof.fasl /Users/js/.roswell/src/sbcl-2.0.1-x86-64-darwin/obj/sbcl-home/contrib//sb-sprof.asd "/Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/contrib/"
+
+SBCL has been installed:
+ binary /Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/bin/sbcl
+ core and contribs in /Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/lib/sbcl/
+
+Documentation:
+ man /Users/js/.roswell/impls/x86-64/darwin/sbcl-bin/2.0.1/share/man/man1/sbcl.1
