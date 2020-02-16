@@ -1,4 +1,5 @@
 (push #P"/root/caveman_nagaoka/" asdf:*central-registry*)
+;(push #P"~/work/caveman_nagaoka/" asdf:*central-registry*)
 (ql:quickload :nagaoka)
 
 (defpackage nagaoka.app
