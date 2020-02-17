@@ -1,11 +1,28 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
 <head>
-  <meta charset="utf-8">
-  <title>{% block title %}{% endblock %}</title>
-  <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css">
+  <meta http-equiv="content-type" charset="utf-8">
+  <meta name="description" content="長岡先生の授業が聞ける 高校数学の教科書" />
+  <meta name="keywords" content="長岡先生 高校数学 教科書" />
+  <link rel="stylesheet" type="text/css" href="/css/style.css" />
 </head>
 <body>
+  <div id="header">
+    <div id="logo">
+      <div id="logo_text">
+        <h1><a href="/">長岡先生の授業が聞ける
+          <span class="logo_colour">高校数学の教科書</span></a>
+        </h1>
+      </div>
+    </div>
+  </div>
+
   {% block content %}{% endblock %}
+
+  <div id="content_footer"></div>
+  <div id="footer">
+    <!--p><a href="/index">Home</a> | <a href="/examples">Examples</a> | <a href="/page">A Page</a> | <a href="/another_page">Another Page</a> | <a href="/contact">Contact Us</a></p>-->
+    <p>Copyright &copy; simplestyle_purple | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="http://www.html5webtemplates.co.uk">Website templates</a></p>
+  </div>
 </body>
 </html>

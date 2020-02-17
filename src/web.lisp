@@ -22,9 +22,18 @@
 
 ;;
 ;; Routing rules
-
 (defroute "/" ()
   (render #P"index.html"))
+(defroute "/home" ()
+  (render #P"index.html"))
+(defroute "/examples" ()
+  (render #P"examples.html"))
+(defroute "/page" ()
+  (render #P"page.html"))
+(defroute "/another_page" ()
+  (render #P"another_page.html"))
+(defroute "/contact" ()
+  (render #P"contact.html"))
 
 ;;
 ;; Error pages
